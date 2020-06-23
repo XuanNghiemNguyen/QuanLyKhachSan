@@ -1,4 +1,5 @@
-# :memo: Ph
+# :memo: Phần mềm quản lý khách sạn
+
 ### Thiết kế phần mềm - 17_32
 
 ---
