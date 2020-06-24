@@ -18,3 +18,9 @@
 
 + run script on mysql workbench before (dir: `./utils/db.script`)
 + type: `npm start` or `nodemon`
+
+### :straight_ruler:  Quy định message commit code
++ Đang làm:  `doing: ...`
++ Đã xong:   `done: ...`
++ Fix lỗi:   `fix: ...`
++ Fix vặt:   `chore: ...`
