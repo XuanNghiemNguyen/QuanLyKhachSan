@@ -16,4 +16,5 @@
 
 ## :rocket:  Running
 
++ run script on mysql workbench before (dir: `./utils/db.script`)
 + type: `npm start` or `nodemon`
